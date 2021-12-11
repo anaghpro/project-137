@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+.hd{
+ font-size: large;
+ width: 100%;
+ margin:0 ;
+}
+#strt,#no_0,#igstatus{
+     font-size: small;   
+}
+.crf{
+    background-color: burlywood;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20;
+    box-shadow:5px 5px 10px slategrey;
+    margin-top: 30px;
+}
